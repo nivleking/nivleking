@@ -1,5 +1,17 @@
-<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true"/>
-<img alt="top_langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivleking&layout=compact&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true"/>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivleking&layout=compact&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true" height="150" alt="languages graph"  />
+</div>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&theme=default#gh-light-mode-only" alt="stats" />
 <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&theme=dark"/>
