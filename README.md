@@ -1,4 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=500&color=5D97F7&center=true&random=false&width=500&lines=hello+world)](https://git.io/typing-svg)
+###
+
+<div align="center">
+(https://readme-typing-svg.demolab.com?font=Poppins&pause=500&color=5D97F7&random=false&width=500&lines=hello+world)](https://git.io/typing-svg)
+</div>
+
+###
 
 ###
 
