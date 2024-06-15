@@ -1,6 +1,10 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nivleking&layout=compact)
+<img alt="top_langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivleking&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&theme=dark" alt="stats" data-theme="dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&theme=default" alt="stats" data-theme="light" />
 
 <!--
+<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&theme=dark"/>
+
 **nivleking/nivleking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
