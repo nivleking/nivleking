@@ -1,12 +1,11 @@
-<img alt="top_langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivleking&layout=compact"/>
-<!-- Dark Mode -->
-<img src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&theme=dark#gh-dark-mode-only" alt="stats" />
-<!-- Light Mode -->
-<img src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&theme=default#gh-light-mode-only" alt="stats" />
+<!-- GRADIENT -->
+<img alt="top_langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivleking&layout=compact&bg_color=30,e96443,904e95" />
+<img src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&bg_color=30,e96443,904e95" alt="stats"/>
 
 <!--
+<img src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&theme=default#gh-light-mode-only" alt="stats" />
 <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&theme=dark"/>
-
+<img alt="top_langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivleking&layout=compact"/>
 **nivleking/nivleking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
