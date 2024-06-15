@@ -1,6 +1,8 @@
 <img alt="top_langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivleking&layout=compact"/>
-<img src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&theme=dark" alt="stats" data-theme="dark" />
-<img src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&theme=default" alt="stats" data-theme="light" />
+<!-- Dark Mode -->
+<img src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&theme=dark#gh-dark-mode-only" alt="stats" />
+<!-- Light Mode -->
+<img src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&theme=default#gh-light-mode-only" alt="stats" />
 
 <!--
 <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&theme=dark"/>
