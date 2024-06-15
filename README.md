@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-(https://readme-typing-svg.demolab.com?font=Poppins&pause=500&color=5D97F7&random=false&width=500&lines=hello+world)](https://git.io/typing-svg)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=5D97F7&size=30&center=true&vCenter=true&width=500&lines=Hello+World" alt="Typing SVG"/>
 </div>
 
 ###
