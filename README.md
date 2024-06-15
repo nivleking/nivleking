@@ -1,8 +1,9 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nivleking.nivleking&"  />
+
 ###
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=5D97F7&size=30&center=true&vCenter=true&width=500&lines=Hello+World" alt="Typing SVG"/>
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nivleking.nivleking&"  />
 </div>
 
 ###
