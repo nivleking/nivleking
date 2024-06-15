@@ -5,11 +5,19 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivleking&layout=compact&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true" height="150" alt="languages graph"  />
+</div>  
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nivleking.nivleking&"  />
 </div>
+
+###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/nivleking/nivleking/output/snake.svg" alt="snake_animation" />
 
 ###
 <!--
