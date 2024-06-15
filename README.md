@@ -1,11 +1,11 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=500&color=5D97F7&center=true&random=false&width=500&lines=hello+world)](https://git.io/typing-svg)
 
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivleking&layout=compact&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true" height="150" alt="languages graph"  />
-</div>  
+</div>
 
 ###
 
@@ -20,6 +20,7 @@
 <img src="https://raw.githubusercontent.com/nivleking/nivleking/output/snake.svg" alt="snake_animation" />
 
 ###
+
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&theme=default#gh-light-mode-only" alt="stats" />
 <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&theme=dark"/>
@@ -28,11 +29,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&bg_color=30,e96443,904e95" alt="stats"/>
 
 <picture>
-  <source 
+  <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nivleking&layout=compact&bg_color=30,e96443,904e95&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <source 
+  <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nivleking&layout=compact&bg_color=30,e96443,904e95"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
