@@ -1,6 +1,6 @@
 <!-- GRADIENT -->
-<img alt="top_langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivleking&layout=compact&bg_color=30,e96443,904e95&text_color=ffffff" />
-<img src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&bg_color=30,e96443,904e95&text_color=ffffff" alt="stats"/>
+<img alt="top_langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivleking&layout=compact&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff" />
+<img src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff" alt="stats"/>
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&theme=default#gh-light-mode-only" alt="stats" />
