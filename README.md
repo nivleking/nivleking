@@ -1,60 +1,52 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nivleking.nivleking&"  />
-
-###
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=5D97F7&size=30&center=true&vCenter=true&width=500&lines=Welcome!" alt="Typing SVG"/>
+<div>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nivleking.nivleking&" alt="visitor badge"/>
 </div>
 
-###
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivleking&layout=compact&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/nivleking/nivleking/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </div>
 
-###
+---
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivleking&layout=compact&bg_color=30,e96443,904e95&text_color=ffffff&title_color=ffffff&icon_color=ffffff&hide_border=true" height="150" alt="Top Languages"/>
 </div>
 
-###
+---
 
-<br clear="both">
+<div>
+  <p>
+    My name is <u>Kelvin</u> a.k.a <b><i>nivleking</i></b>. I like to explore and solve real-world problems and learning new technologies along the way.
+  </p>
 
-<img src="https://raw.githubusercontent.com/nivleking/nivleking/output/github-contribution-grid-snake-dark.svg" alt="snake_animation" />
+  <ul>
+    <li>
+      ✏️ Java Spring Boot / React.js / Laravel / Flutter / Swift / Kotlin / Bash Script
+    </li>
+    <li>
+      🪵 Redhat Openshift / Kibana
+    </li>
+  </ul>
+</div>
 
-###
+---
 
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&theme=default#gh-light-mode-only" alt="stats" />
-<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&theme=dark"/>
-<img alt="top_langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivleking&layout=compact"/>
-**nivleking/nivleking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&bg_color=30,e96443,904e95" alt="stats"/>
+<div align="center">
+  <h3>📫 Connect with Me</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/kelvinsidhartasie" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-kelvinsidhartasie-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/nivleking" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-nivleking-black?style=flat&logo=github" alt="GitHub"/>
+    </a>
+    <a href="mailto:kelvinsidhartasie@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/kelvinsidhartasie@gmail.com-red?style=flat&logo=gmail" alt="Email"/>
+    </a>
+  </p>
+</div>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nivleking&layout=compact&bg_color=30,e96443,904e95&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nivleking&layout=compact&bg_color=30,e96443,904e95"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img alt="top_langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivleking&layout=compact&bg_color=30,e96443,904e95" />
-</picture>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h4>✨ Thanks for stopping by! ✨</h4>
+</div>
