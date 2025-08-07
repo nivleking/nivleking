@@ -17,7 +17,7 @@
 
 <div>
   <p>
-    My name is <u>Kelvin</u> a.k.a <b><i>nivleking</i></b>. I like to explore and solve real-world problems and learning new technologies along the way.
+    My name is <u>Kelvin</u> a.k.a <b><i>nivleking</i></b>. I like to explore and solve real-world problems and keep learning new technologies along the way.
   </p>
 
   <ul>
@@ -31,6 +31,18 @@
 </div>
 
 ---
+
+<div align="center" style="margin: 20px 0;">
+  <h3>Check out my portfolio!</h3>
+  <p>
+    <a href="https://www.canva.com/design/DAGNpmdg8pc/VHHZG3TKgI4QwAwrPXV3lw/edit" target="_blank">
+      <img src="https://img.shields.io/badge/🔥%20Click%20Here-FF6B6B?style=for-the-badge&logo=canva&logoColor=white" alt="Portfolio"/>
+    </a>
+  </p>
+</div>
+
+---
+
 
 <div align="center">
   <h3>📫 Connect with Me</h3>
