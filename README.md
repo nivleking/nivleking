@@ -27,12 +27,6 @@
   <a href="https://leetcode.com/u/nivleking/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-nivleking-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode: nivleking"/>
   </a>
-  <a href="https://www.hackerrank.com/profile/nivleking" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-nivleking-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank: nivleking"/>
-  </a>
-  <a href="https://www.canva.com/design/DAGNpmdg8pc/VHHZG3TKgI4QwAwrPXV3lw/edit" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Canva-8A2BE2?style=for-the-badge&logo=canva&logoColor=white" alt="Portfolio (Canva)"/>
-  </a>
 </div>
 
 ---
