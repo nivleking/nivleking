@@ -1,22 +1,3 @@
----
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=nivleking&show_icons=true&bg_color=30,0d1117,0a66c2&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff&hide_border=true&include_all_commits=true"
-    height="460"
-    width="460"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nivleking&layout=compact&bg_color=30,0d1117,0a66c2&text_color=ffffff&title_color=58a6ff&icon_color=58a6ff&hide_border=true"
-    height="650"
-    width="350"
-    alt="Top Languages"
-  />
-</div>
-
----
-
 <div align="center">
   <a href="https://www.linkedin.com/in/kelvinsidhartasie" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-kelvinsidhartasie-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn: kelvinsidhartasie"/>
@@ -28,5 +9,3 @@
     <img src="https://img.shields.io/badge/LeetCode-nivleking-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode: nivleking"/>
   </a>
 </div>
-
----
